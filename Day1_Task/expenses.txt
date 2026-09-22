@@ -1,0 +1,6 @@
+Food,500
+Transport,200
+Food,300
+Entertainment,400
+Food,250
+Transport,100
